@@ -1,2 +1,0 @@
-# LMSGI
-Primer repositorio
