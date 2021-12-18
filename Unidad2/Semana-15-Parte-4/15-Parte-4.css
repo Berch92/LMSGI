@@ -1,0 +1,12 @@
+a {
+    color: red;
+    text-decoration: underline;
+}
+a.Enlace2 {
+    color: white;
+    background-color: red;
+    text-decoration: underline red;
+}
+a.Enlace3 {
+    color: darkgray;
+}
